@@ -1,0 +1,2 @@
+# Python-automations-for-day-today-activities
+At UPS I lead the analytics team behind the navigation of the website world-wide. Some easy tasks can become pretty confusing when our team is trying to compare the U.S Homepage with 20 different other countries. So, an automation to get to the U.S homepage without opening my browser can be very handy and help me quickly get to where I want without needing to type the url. This is only one example of what I have in here.
